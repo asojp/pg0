@@ -1,0 +1,19 @@
+#global-nav{
+    background-color: #b1f1fd;
+    padding:10px;
+    width:100%;
+}
+#global-nav ul{
+    list-style:none;
+    padding:0;
+    margin:0;
+    display:flex;
+}
+#global-nav a{
+    margin-left: 10px;
+    text-decoration:none;
+    padding:10px;
+}
+#global-nav a:hover{
+ background-color: #9dccfc;
+}
